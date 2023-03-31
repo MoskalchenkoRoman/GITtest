@@ -6,10 +6,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     LinkedHashMap<> gitl = new LinkedHashMap(10);
-    public LinkedHashMap getGitl() {
-        return gitl;
-    }
-    public void setGitl(LinkedHashMap gitl) {
-        this.gitl = gitl;
-    }
+    
 }
