@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Hello world!");
     }
     LinkedHashMap<> gitl = new LinkedHashMap(10);
-    
+    hgfjhghfhghkgjh
+    hjklhlh
+    jhlk
 }
